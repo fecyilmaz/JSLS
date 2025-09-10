@@ -7,7 +7,7 @@
 // const friend4 = "papa";
 
 // //! we can store any type of value
-// const friends = ["can","emre","defne","sevi",45,undefined,null];
+// const friends = ["adam","philip","ashley","lover",45,undefined,null];
 
 // console.log(friends[5]);
 // console.log(friends[0]);
